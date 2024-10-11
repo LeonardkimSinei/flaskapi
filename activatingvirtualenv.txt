@@ -1,0 +1,6 @@
+ python -m venv .venv
+
+Set-ExecutionPolicy Unrestricted -Force
+ venv/Scripts/activatevenv/
+ or
+.venv\scripts\activate
